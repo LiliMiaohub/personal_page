@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Academic Positions"
+    url: "/#-academic-positions"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Selected Talks"
+    url: "/#-selected-talks"
+
+  - title: "Services"
+    url: "/#-services"
+
+  - title: "Awards and Fellowships"
+    url: "/#-awards-and-fellowships"
